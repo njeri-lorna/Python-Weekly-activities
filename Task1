@@ -4,7 +4,7 @@
 patient_name = "lorna"
 patient_id = "P001"
 patient_age = 22
-patient_gender = "FeMale"
+patient_gender = "Female"
 
 # Display patient details using an f-string
 print(f"Patient Name: {patient_name}")
