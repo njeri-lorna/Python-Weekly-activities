@@ -1,0 +1,13 @@
+# Task 2: University Student Information System
+
+# Store student information in variables
+student_name = "Lorna"
+registration_number = "BSCIT-01-0046/2025"
+course = "Bachelor of Information Technology"
+year_of_study = 3
+
+# Display student information
+print("Student Name:", student_name)
+print("Registration Number:", registration_number)
+print("Course:", course)
+print("Year of Study:", year_of_study)
